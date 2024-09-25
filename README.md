@@ -1,14 +1,14 @@
 # React + Vite
 
-Technologies
-This project is built with:
+# Technologies
+*This project is built with:*
 
-React.js - A JavaScript library for building user interfaces
-React Router - For client-side routing
-React Bootstrap - For UI components 
-sweetalert2 - For show the pop-up type alert
-yup - For input feilds validation
-formik - For forms validation
+1. React.js - A JavaScript library for building user interfaces
+2. React Router - For client-side routing
+3. React Bootstrap - For UI components 
+4. sweetalert2 - For show the pop-up type alert
+5. yup - For input feilds validation
+6. formik - For forms validation
 
 Run Command
 1. node_modules: npm install
